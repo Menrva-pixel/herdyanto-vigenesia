@@ -1,6 +1,6 @@
 # vigenesia
 
-Tugas kuliah Teknolog Web Servis
+Tugas kuliah Teknologi Web Servis
 
 ## Getting Started
 
