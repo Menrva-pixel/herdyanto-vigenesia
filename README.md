@@ -1,6 +1,6 @@
 # vigenesia
 
-A new Flutter project.
+Tugas kuliah Teknolog Web Servis
 
 ## Getting Started
 
